@@ -4,16 +4,16 @@
     text-align: center;
 }
  body {
-    background-color: rgb(51, 50, 50);
+    background-color: #F5F1E8;
 
  }
 
 
  h1 {
-    background-color: rgb(78, 18, 135);
+    background-color: #D8C3A5;
     align-content: center;
     text-align: center;
-    color: azure;
+    color: #7A9E7E;
     width: 100%;
     height: 5rem;
 }
@@ -34,13 +34,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgb(78, 18, 135);
+  background-color: #D8C3A5;
   border-radius: 100%;
   cursor: pointer;
 }
 
 .scorebd {
-    color: aliceblue;
+    color: #7A9E7E;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -52,15 +52,15 @@
 .resetbt {
     font-size: xx-large;
     padding: 10px 20px;
-    background-color: blueviolet;
-    color: white;
+    background-color: #D8C3A5;
+    color: #7A9E7E;
     border: none;
     border-radius: 25px;
     cursor: pointer;
 }
 
 #msg {
-    color: aliceblue;
+    color: #7A9E7E;
     display: flex;
     justify-content: center;
     align-content: center;
